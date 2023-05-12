@@ -30,7 +30,7 @@ For more information on this, see the WHATWG FAQ entry [What does "Living Standa
 
 ### Will future browsers have any idea what older HTML documents mean?
 
-Browsers do not implement HTML+, HTML2, HTML3.2, HTML4, HTML4.01, etc, as separate versions. They all just have a single implementation that covers all these versions at once. That is what the HTML Standard defines: how to write a browser (or other implementation) that handles _all previous versions of HTML_, as well as all the latest features.
+Browsers do not implement HTML +, HTML 2, HTML 3.2, HTML 4, HTML 4.01, etc, as separate versions. They all just have a single implementation that covers all these versions at once. That is what the HTML Standard defines: how to write a browser (or other implementation) that handles _all previous versions of HTML_, as well as all the latest features.
 
 One of the main goals of the HTML Standard and the WHATWG effort as a whole is to make it possible for archeologists hundreds of years from now to write a browser and view HTML content, regardless of when it was written. Making sure that we handle all documents is one of our most important goals. Not having versions does not preclude this; indeed it makes it significantly easier.
 
@@ -97,7 +97,7 @@ Also see [HTML feature proposals](#html-feature-proposals).
 
 ### Does HTML finally put an end to the XHTML as `text/html` debate?
 
-Yes. Unlike HTML4 and XHTML1, the choice of HTML or "XHTML" is solely dependent upon the choice of the media type, rather than the DOCTYPE. See [HTML vs. XHTML](https://wiki.whatwg.org/wiki/HTML_vs._XHTML)
+Yes. Unlike HTML 4 and XHTML 1, the choice of HTML or "XHTML" is solely dependent upon the choice of the media type, rather than the DOCTYPE. See [HTML vs. XHTML](https://wiki.whatwg.org/wiki/HTML_vs._XHTML)
 
 ### What is the DOCTYPE for modern HTML documents?
 
